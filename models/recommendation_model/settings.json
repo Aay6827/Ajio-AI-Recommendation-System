@@ -1,0 +1,6 @@
+{
+  "cSpell.ignorePaths": [
+    "**/requirements.txt",
+    "**/Dockerfile"
+  ]
+}

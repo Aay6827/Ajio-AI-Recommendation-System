@@ -1,0 +1,51 @@
+services:
+
+  db:
+    image: postgres:18
+    container_name: ajio_postgres
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin123
+      POSTGRES_DB: ajio
+
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - pgdata:/var/lib/postgresql
+
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d ajio"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+    restart: always
+
+
+  recommendation_service:
+    build: .
+    container_name: ajio_recommender
+
+    depends_on:
+      db:
+        condition: service_healthy
+
+    environment:
+      DATABASE_URL: postgresql+psycopg2://postgres:admin123@db:5432/ajio
+
+    ports:
+      - "8000:8000"
+    
+    volumes:
+      - ./static:/app/static 
+
+    restart: always
+
+
+volumes:
+  pgdata:
+  
+
+  

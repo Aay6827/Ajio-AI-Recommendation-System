@@ -1,0 +1,122 @@
+product_id,name,category,brand,color
+1,Nike Air Max 270,Shoes,Nike,Black
+2,Nike Air Force 1,Shoes,Nike,White
+3,Nike React Infinity Run,Shoes,Nike,Blue
+4,Nike Zoom Pegasus 40,Shoes,Nike,Grey
+5,Nike Air Zoom Structure,Shoes,Nike,Red
+6,Adidas Ultraboost 23,Shoes,Adidas,Black
+7,Adidas Stan Smith,Shoes,Adidas,White
+8,Adidas NMD R1,Shoes,Adidas,Grey
+9,Adidas Superstar,Shoes,Adidas,White
+10,Adidas Gazelle,Shoes,Adidas,Green
+11,Puma RS-X,Shoes,Puma,White
+12,Puma Suede Classic,Shoes,Puma,Black
+13,Puma Velocity Nitro,Shoes,Puma,Blue
+14,Puma Softride Pro,Shoes,Puma,Grey
+15,Puma Smash V2,Shoes,Puma,White
+16,US Polo Sneakers,Shoes,US Polo,Brown
+17,Levis Casual Shoes,Shoes,Levis,Blue
+18,Jack Jones Derby Shoes,Shoes,Jack & Jones,Black
+19,Zara Loafers,Shoes,Zara,Brown
+20,HM Canvas Shoes,Shoes,H&M,White
+21,Nike Dri-FIT T-shirt,Clothing,Nike,Blue
+22,Nike Sportswear Club Tee,Clothing,Nike,White
+23,Nike Pro Compression Tee,Clothing,Nike,Black
+24,Nike Therma-FIT Hoodie,Clothing,Nike,Grey
+25,Nike Windrunner Jacket,Clothing,Nike,Navy
+26,Nike Tracksuit,Clothing,Nike,Black
+27,Nike Shorts Dry,Clothing,Nike,Black
+28,Nike Sports Bra,Clothing,Nike,Pink
+29,Nike Leggings Pro,Clothing,Nike,Black
+30,Nike Polo Shirt,Clothing,Nike,White
+31,Adidas Tiro 23 Jersey,Clothing,Adidas,Black
+32,Adidas Essentials T-shirt,Clothing,Adidas,White
+33,Adidas Hoodie Trefoil,Clothing,Adidas,Black
+34,Adidas Track Jacket,Clothing,Adidas,Blue
+35,Adidas Joggers Essentials,Clothing,Adidas,Grey
+36,Adidas T-shirt 3 Stripes,Clothing,Adidas,Navy
+37,Adidas Leggings Believe This,Clothing,Adidas,Black
+38,Adidas Sports Bra,Clothing,Adidas,White
+39,Adidas Shorts Pacer,Clothing,Adidas,Black
+40,Adidas Polo Shirt,Clothing,Adidas,White
+41,Puma Evostripe Hoodie,Clothing,Puma,Black
+42,Puma Essential Logo Tee,Clothing,Puma,White
+43,Puma Fit Training Jacket,Clothing,Puma,Red
+44,Puma Swagger Shorts,Clothing,Puma,Grey
+45,Puma Classics T-shirt,Clothing,Puma,Blue
+46,Puma Train Favorite Leggings,Clothing,Puma,Black
+47,Puma Sports Bra Strong,Clothing,Puma,Pink
+48,Puma Sweatpants,Clothing,Puma,Grey
+49,Puma Polo Shirt,Clothing,Puma,White
+50,Puma Jacket Woven,Clothing,Puma,Navy
+51,HM Slim Fit Shirt,Clothing,H&M,White
+52,HM Skinny Jeans,Clothing,H&M,Blue
+53,HM Chino Pants,Clothing,H&M,Beige
+54,HM Oversized Hoodie,Clothing,H&M,Grey
+55,HM Printed T-shirt,Clothing,H&M,Black
+56,HM Linen Shirt,Clothing,H&M,White
+57,HM Cargo Pants,Clothing,H&M,Olive
+58,HM Blazer,Clothing,H&M,Navy
+59,HM Summer Dress,Clothing,H&M,Floral
+60,HM Denim Jacket,Clothing,H&M,Blue
+61,Zara Slim Fit Trousers,Clothing,Zara,Black
+62,Zara Printed Shirt,Clothing,Zara,White
+63,Zara Structured Blazer,Clothing,Zara,Grey
+64,Zara Knit Sweater,Clothing,Zara,Beige
+65,Zara Denim Shorts,Clothing,Zara,Blue
+66,Zara Floral Dress,Clothing,Zara,Floral
+67,Zara Leather Jacket,Clothing,Zara,Black
+68,Zara Wide Leg Pants,Clothing,Zara,Beige
+69,Zara Crop Top,Clothing,Zara,White
+70,Zara Trench Coat,Clothing,Zara,Camel
+71,Levis 511 Slim Jeans,Clothing,Levis,Blue
+72,Levis 501 Original Jeans,Clothing,Levis,Dark Blue
+73,Levis Denim Jacket,Clothing,Levis,Blue
+74,Levis Graphic T-shirt,Clothing,Levis,White
+75,Levis Chino Pants,Clothing,Levis,Khaki
+76,Jack Jones Slim Fit Jeans,Clothing,Jack & Jones,Blue
+77,Jack Jones Casual Shirt,Clothing,Jack & Jones,White
+78,Jack Jones Bomber Jacket,Clothing,Jack & Jones,Black
+79,Jack Jones Chinos,Clothing,Jack & Jones,Beige
+80,Jack Jones Knit Pullover,Clothing,Jack & Jones,Grey
+81,Nike Backpack,Accessories,Nike,Black
+82,Nike Cap Dri-FIT,Accessories,Nike,Black
+83,Nike Socks 3 Pack,Accessories,Nike,White
+84,Nike Sunglasses,Accessories,Nike,Black
+85,Nike Gym Bag,Accessories,Nike,Grey
+86,Adidas Backpack Classic,Accessories,Adidas,Black
+87,Adidas Cap Trefoil,Accessories,Adidas,Black
+88,Adidas Socks 3 Pack,Accessories,Adidas,White
+89,Adidas Sunglasses Sport,Accessories,Adidas,Black
+90,Adidas Gym Bag,Accessories,Adidas,Grey
+91,Puma Backpack Phase,Accessories,Puma,Black
+92,Puma Cap Classic,Accessories,Puma,Black
+93,Puma Socks,Accessories,Puma,White
+94,Puma Sunglasses,Accessories,Puma,Black
+95,Puma Gym Bag,Accessories,Puma,Red
+96,Fossil Analog Watch,Watches,Fossil,Brown
+97,Fossil Chronograph Watch,Watches,Fossil,Silver
+98,Casio Digital Watch,Watches,Casio,Black
+99,Casio G-Shock Watch,Watches,Casio,Black
+100,Titan Edge Watch,Watches,Titan,Silver
+101,Titan Raga Watch,Watches,Titan,Gold
+102,Fastrack Analog Watch,Watches,Fastrack,Blue
+103,Fastrack Digital Watch,Watches,Fastrack,Black
+104,Sonata Classic Watch,Watches,Sonata,Brown
+105,Tommy Hilfiger Watch,Watches,Tommy Hilfiger,Silver
+106,Ray-Ban Aviator,Sunglasses,Ray-Ban,Gold
+107,Ray-Ban Wayfarer,Sunglasses,Ray-Ban,Black
+108,Ray-Ban Clubmaster,Sunglasses,Ray-Ban,Brown
+109,Oakley Holbrook,Sunglasses,Oakley,Black
+110,Oakley Frogskins,Sunglasses,Oakley,Tortoise
+111,Fastrack Rectangle Sunglasses,Sunglasses,Fastrack,Black
+112,Fastrack Oval Sunglasses,Sunglasses,Fastrack,Brown
+113,HM Round Sunglasses,Sunglasses,H&M,Black
+114,Zara Cat Eye Sunglasses,Sunglasses,Zara,Black
+115,Titan Sunglasses,Sunglasses,Titan,Grey
+116,Levis Leather Belt,Accessories,Levis,Brown
+117,HM Canvas Tote Bag,Accessories,H&M,Beige
+118,Zara Leather Wallet,Accessories,Zara,Black
+119,Jack Jones Leather Belt,Accessories,Jack & Jones,Black
+120,US Polo Cap,Accessories,US Polo,Navy
+
