@@ -486,11 +486,11 @@
  
 <footer>
   <span>AJIO AI RECOMMENDATION SYSTEM</span>
-  <span id="footerInfo">API: localhost:8000</span>
+  <span id="footerInfo">API: AWS ECS</span>
 </footer>
  
 <script>
-  const API = 'http://localhost:8000';
+  const API = '';
   let allProducts = [];
  
   // Check API status and load products on page load
@@ -536,7 +536,7 @@
       document.getElementById('resultsSection').innerHTML = `
         <div class="error-box">
           ⚠ CANNOT CONNECT TO API AT localhost:8000<br/>
-          Make sure docker-compose up is running.
+          Make sure the service is running.
         </div>`;
     }
   }
@@ -575,7 +575,7 @@
         return;
       }
  
-      const recs = data.recommendations;
+      const recs = Array.isArray(data.recommendations) ? data.recommendations : [];
       if (!recs || recs.length === 0) {
         document.getElementById('resultsSection').innerHTML = `
           <div class="state-box"><span class="state-icon">🤷</span><p>NO RECOMMENDATIONS FOUND</p></div>`;
